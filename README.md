@@ -1,5 +1,5 @@
 # ethos-miner-com
-A little prograam that can be used for controlling your EthOS from serial port.
+A little program that can be used for controlling your EthOS from serial port.
 # Usage
 The usage is actually very simple. You send commands by serial port.
 There are commands:
@@ -7,6 +7,7 @@ There are commands:
 2. `s` - Shutdown
 3. `mr` - Run Miner
 4. `ms` - Stop Miner
+If all went good you will get response: `ok`
 # Setting up in system
 * Set Following data to the `/etc/apt/sources.list`:\
 `deb http://deb.debian.org/debian/ stretch main`\
