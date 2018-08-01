@@ -6,7 +6,7 @@ There are commands:
 1. `r` - Reboot
 2. `s` - Shutdown
 3. `mr` - Run Miner
-4. `ms` - Stop Miner
+4. `ms` - Stop Miner\
 If all went good you will get response: `ok`
 # Setting up in system
 * Set Following data to the `/etc/apt/sources.list`:\
