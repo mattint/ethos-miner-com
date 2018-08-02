@@ -19,4 +19,5 @@ If all went good you will get response: `ok`
 * Install Python daemon wrapper `pip install python-daemon`
 * Install ethos-miner-com `cd /opt && git clone https://github.com/mattint/ethos-miner-com`
 * Set `/opt/ethos-miner-com/main.py start` in your `/etc/profile`
+* Modify the TTYSN variable to your COM port
 * **Profit**
