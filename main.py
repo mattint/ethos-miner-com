@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import
+import os
 from daemon import runner
 
 TTYSN = 0
